@@ -1,3 +1,4 @@
+git pull origin main
 cd ./progpjs.httpServer && git pull origin main && cd ..
 cd ./progpjs.modules && git pull origin main && cd ..
 cd ./progpjs.progpAPI && git pull origin main && cd ..
