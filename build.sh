@@ -2,3 +2,4 @@
 
 cd progpjs.nodejs
 go build .
+mv node ./..
