@@ -1,6 +1,3 @@
-# The "-b main" option allows tracking the last commit.
-# Without that we are stuck to an old version.
-
 git clone -b main https://github.com/progpjs/httpServer.git ./progpjs.httpServer
 git clone -b main https://github.com/progpjs/modules.git ./progpjs.modules
 git clone -b main https://github.com/progpjs/progpAPI.git ./progpjs.progpAPI
